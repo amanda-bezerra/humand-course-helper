@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = """# 🎓 Humand Course Helper
+🎓 Humand Course Helper
 
 Userscript para auxiliar na navegação de cursos na plataforma **Humand**, automatizando tarefas repetitivas durante materiais de leitura e vídeos.
 
